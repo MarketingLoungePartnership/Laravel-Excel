@@ -19,7 +19,7 @@
   ],
   "require": {
     "php": ">=5.5",
-    "phpoffice/phpexcel": "^1.8.1",
+    "phpoffice/phpspreadsheet": "^1.11",
     "illuminate/cache": "^6.0|^7.0",
     "illuminate/config": "^6.0|^7.0",
     "illuminate/filesystem": "^6.0|^7.0",
